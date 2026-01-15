@@ -13,7 +13,6 @@ Preparar um ambiente Linux com usuários, grupos, diretórios, permissões, cont
 ## Atividades Executadas
 
 ### Criação de Grupos
-
 sudo groupadd desenvolvedores
 
 sudo groupadd testadores
