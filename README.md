@@ -16,6 +16,14 @@ Preparar um ambiente Linux com usuários, grupos, diretórios, permissões, cont
 ```bash
 sudo groupadd desenvolvedores
 sudo groupadd testadores
+
+![Criacao de grupos](prints/Screenshot from 2026-01-15 03-04-49.png)
+
+
+
+
+
+
 <img width="866" height="670" alt="Screenshot from 2026-01-15 03-04-49" src="https://github.com/user-attachments/assets/de225ebc-3eba-4a24-a39a-36ac17775e7e" />
 <img width="866" height="670" alt="Screenshot from 2026-01-15 03-05-22" src="https://github.com/user-attachments/assets/ad901ed1-441d-4eee-91e1-d05cfc7738b7" />
 <img width="866" height="670" alt="Screenshot from 2026-01-15 03-05-51" src="https://github.com/user-attachments/assets/ea05f538-1375-4ac8-a662-9efaa1b89f87" />
